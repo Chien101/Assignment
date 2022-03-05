@@ -1,2 +1,3 @@
 # Assignment
-for THSH class
+THSH
+Chien's Google Classroom assignment 
